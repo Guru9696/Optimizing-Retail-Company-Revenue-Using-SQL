@@ -28,3 +28,7 @@ SQL functions that I used in this project:
 * Analyzing factors that influence monthly review fluctuations and planning appropriate marketing strategies.
 * Using this data as a foundation to design more effective and customer-oriented business strategies.
 * All of these recommendations can assist the brand in enhancing product performance, increasing revenue, and providing a better experience to customers.
+
+
+## Contact
+For any inquiries or support, please contact [Your Name] at [your-email@example.com].
